@@ -396,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Large .csv files
+data/raw/train_transaction.csv
+data/raw/test_transaction.csv
